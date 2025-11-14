@@ -2,6 +2,9 @@
 
 This repository contains a complete workflow for analyzing user engagement data and building a graph-driven recommendation system. The project includes two Jupyter notebooks, associated datasets, and a written guide. The goal is to understand user behavior, define novel engagement metrics, and generate improved content recommendations using graph methods and a hybrid LightFM model.
 
+## Architecture Diagram
+![Project Diagram](assets/diagram.png)
+
 ## Repository Structure
 
 ```
